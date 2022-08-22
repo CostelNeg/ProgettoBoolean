@@ -1,0 +1,75 @@
+body{
+    background-image:url('background.jpg');
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.primoDiv{
+    background: rgba(0, 0, 0.1,0.4);
+    border: 2px  black;
+    border-radius: 12px;
+    margin-top: 25px;
+    margin-right: 250px;
+    margin-left: 250px;
+    padding-bottom: 90px;
+    padding-top: 15px;
+}
+.center{
+  display: block;
+  margin-top: 7%;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+    opacity: 4.0;
+    color: rgb(9, 243, 9);
+    text-align: center;
+    margin-top: 0.9%;
+}
+fieldset{
+    border: 2px;
+    margin-top:0.2%;
+    background-color: rgb(9, 243, 9);
+    text-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin-right: 10%;
+    margin-left: 10%;  
+}
+h3{
+    color: rgb(253, 253, 253);
+    margin-left: 10%;
+}
+h5{
+    color: rgb(253, 253, 253);
+    margin-left: 10%;
+}
+p{
+    margin-top: -15px;
+    color: hsl(0, 0%, 99%);
+    margin-left: 10%;
+}
+.secondoDiv{
+    margin-left: 10%;
+    margin-top: -15px;
+    background-color: rgb(245, 152, 30);
+    border-radius: 15px;
+    height: 3vh;
+    width: 20vw;
+}
+.terzoDiv{
+    margin-left: 10%;
+    margin-top: -15px;
+    background-color: rgb(3, 250, 3);
+    border-radius: 15px;
+    height: 3vh;
+    width: 30vw;
+}
+.quartoDiv{
+    margin-left: 10%;
+    margin-top: -15px;
+    background-color: rgb(224, 83, 83);
+    border-radius: 15px;
+    height: 3vh;
+    width: 10vw;
+}
